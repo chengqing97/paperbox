@@ -13,3 +13,15 @@ Sometimes we like to send things to ourself using chat apps because it helps us 
 Ideas Cloud is a chat app that your only contact is YOURSELF!
 
 Quickly note down your thoughts in a chat-like manner without ever splitting your thoughts to think about how to organize ever growing notes. All notes will be automatically transferred (synced) across all your devices, let it be Android, iPhone, iPad, Mac, Windows, Web or Linux! Need to send things to your other devices? Just send it in Ideas Cloud. Never need to load up large chat app or find a right folder inside your note app anymore!
+
+## Terms of Service
+
+https://github.com/chengqing97/ideas-cloud/blob/main/terms-of-service.md
+
+## Privacy Policy
+
+https://github.com/chengqing97/ideas-cloud/blob/main/privacy-policy.md
+
+## Data Deletion Instructions
+
+https://github.com/chengqing97/ideas-cloud/blob/main/data-deletion-instructions.md
