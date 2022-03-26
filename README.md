@@ -1,4 +1,6 @@
-# ideas-cloud
+# Ideas Cloud
+
+Quick Notes, Transfer and Cloud Storage
 
 ## Description
 
