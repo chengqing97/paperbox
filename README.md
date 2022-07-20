@@ -1,3 +1,5 @@
+![Ideas Cloud](https://github.com/chengqing97/ideas-cloud/blob/main/assets/icon.png)
+
 # Ideas Cloud
 
 Quick Notes, Transfer and Cloud Storage
