@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: March 26, 2022
+Last updated: August 1, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Template.
@@ -15,9 +15,9 @@ For the purposes of this Privacy Policy:
 
 **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-**Application** means the software program provided by the Company downloaded by You on any electronic device, named Ideas Cloud
+**Application** means the software program provided by the Company downloaded by You on any electronic device, named Paperbox
 
-**Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Ideas Cloud.
+**Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Paperbox.
 
 **Country** refers to: Malaysia
 
