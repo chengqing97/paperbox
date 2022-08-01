@@ -1,4 +1,4 @@
-![Paperbox](https://github.com/chengqing97/paperbox/raw/main/assets/icon.png)
+![Paperbox](https://github.com/chengqing97/paperbox/blob/main/assets/icon.png)
 
 # Paperbox
 
