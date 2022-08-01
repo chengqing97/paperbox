@@ -1,6 +1,6 @@
 # Data Deletion Instructions
 
-Last updated: March 26, 2022
+Last updated: August 1, 2022
 
 If you wish to delete your personal data from Paperbox database which you have provided to Paperbox when you choose to login to our app using Google, Facebook or Apple, please email us at lowchengqing@gmail.com with the below information:
 
